@@ -1,2 +1,2 @@
-# 04-01-01-repository-kreta
-Kréta repository és service
+# 00-00-00-empty-gradle-task-
+# Projekt név
